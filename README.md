@@ -1,6 +1,6 @@
 # ICML_2025_review
 
-## Statistics of Graphs
+## Table 1: Statistics of Graphs
 
 Summary of graph sizes (nodes and edges) across different network datasets.
 
@@ -31,7 +31,7 @@ Summary of graph sizes (nodes and edges) across different network datasets.
 | wiki-en21         |  6216199  |   160823797 |
 | wiki-talk         |  2388953  |     4656682 |
 
-## Operation Counts
+## Table 2: Operation Counts
 
 | Graph             | APPR     | APPR Opt | LocGD    | AESP-LocGD | AESP-LocAPPR |
 |-------------------|----------|----------|----------|------------|--------------|
@@ -55,7 +55,7 @@ Summary of graph sizes (nodes and edges) across different network datasets.
 | wiki-en21         | 7.19e+05 | 2.18e+05 | 2.27e+05 | 5.47e+05   | 5.36e+05     |
 | wiki-talk         | 1.39e+06 | 7.76e+05 | 9.83e+05 | 6.79e+05   | 5.42e+05     |
 
-## Runtime Table
+## Table 3: Runtime Table
 
 | Graph             | APPR    | APPR Opt | LocGD   | AESP-LocGD | AESP-LocAPPR |
 |-------------------|---------|----------|---------|------------|--------------|
