@@ -7,12 +7,7 @@ Summary of graph sizes (nodes and edges) across different network datasets.
 | Graph             |     nodes |    edges    |
 |-------------------|----------:|------------:|
 | as-skitter        |  1694616  |    11094209 |
-| cit-citeseer      |     4230  |        5337 |
-| cit-cora          |    19793  |       63421 |
-| cit-cora-ml       |     2995  |        8158 |
-| cit-dblp          |    17716  |       52867 |
 | cit-patent        |  3764117  |    16511740 |
-| cit-pubmed        |    19717  |       44324 |
 | com-dblp          |   317080  |     1049866 |
 | com-friendster    | 65608366  | 1806067135 |
 | com-lj            |  3997962  |    34681189 |
